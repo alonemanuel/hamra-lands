@@ -1,0 +1,12 @@
+/* Deafults */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+--border-radius: 8px;
+--color-primary: rgb(87, 87, 198);
+}
+
